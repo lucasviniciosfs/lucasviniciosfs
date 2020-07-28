@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### I'm Lucas, a developer made in Brazil! haha
+
+### About me:
+#### Linkedin: https://www.linkedin.com/in/lucas-vinicios-430525a0/
+#### Instagram: https://www.instagram.com/lucasviniciosfs/
+
+Loading...
 <!--
 **lucasviniciosfs/lucasviniciosfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
