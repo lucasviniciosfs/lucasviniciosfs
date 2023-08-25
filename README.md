@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-### About me:
-#### Linkedin: https://www.linkedin.com/in/lucas-viniciosfs/
-
-Loading...
 <!--
 **lucasviniciosfs/lucasviniciosfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
