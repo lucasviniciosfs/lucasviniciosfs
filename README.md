@@ -17,5 +17,3 @@ See all my repositories [here](https://github.com/lucasviniciosfs?tab=repositori
 ---
 
 Feel free to explore my projects or reach out! 🚀
-
-> _Note: This list shows only some of my most recent repositories. See all on [GitHub](https://github.com/lucasviniciosfs?tab=repositories&sort=updated)._
