@@ -1,16 +1,21 @@
-### Hi there 👋
+# Lucas Vinicios
 
-<!--
-**lucasviniciosfs/lucasviniciosfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm Lucas Vinicios, a software engineer currently based in Portugal.
 
-Here are some ideas to get you started:
+- 💼 Experienced in developing web and mobile applications.
+- 🚀 Skilled mostly with Angular and Typescript but already coded with technologies/frameworks such as Ionic, Java, Spring Boot, and Python.
+- 📚 Always seeking new knowledge and challenges.
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/lucasviniciosfs) or by email: lucasvinicios-fs@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See all my repositories [here](https://github.com/lucasviniciosfs?tab=repositories&sort=updated).
+
+## 📊 Stats
+
+- ⭐ Over 50 public repositories
+- 🗓️ On GitHub since 2016
+
+---
+
+Feel free to explore my projects or reach out! 🚀
+
+> _Note: This list shows only some of my most recent repositories. See all on [GitHub](https://github.com/lucasviniciosfs?tab=repositories&sort=updated)._
